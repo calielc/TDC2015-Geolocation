@@ -5,6 +5,6 @@ _Utilizando de MongoDB para localização geográfica e relacionamento de conte�
 A recomendação de conteúdo para usuários é um dos pontos principais no Superplayer. Desde o inicio do ano criamos uma estrutura de geolocalização utilizando MongoDB para selecionar Playlists e propagandas para os usuários. No meio do caminho algumas coisas não funcionaram muito bem, mas apreendemos muito desde então e nesta palestra vou compartilhar os principais pontos.
 
 
-Mais informações: http://blog.calielcosta.com/2015/07/28/localizando-uma-agulha-usando-mongodb-para-dados-geolocalizados/
+Mais informações: http://blog.calielcosta.com/2015/07/31/localizando-uma-agulha-usando-mongodb-para-dados-geolocalizados/
 
 Ver arquitetura em funcionamento: https://www.superplayer.fm
